@@ -18,7 +18,7 @@ class Config(Config):
     # Do not delete [DRIVE] #do not delete [DRIVE] but replace remaining part with yours data..if more data use common sense
     RCLONE_CONFIG = """
 [DRIVE]
-type = drive
-scope = drive
+type = 
+scope =
 token = {"ac—fill—yours—data—jNc3MpTRy2PuGD_Lvsodct---fill--yours---0-18T12:11:26.58411451Z"}
 team_drive = 0ABS@gautamk9PVA"""
