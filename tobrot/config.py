@@ -16,9 +16,4 @@ class Config(Config):
     LEECH_COMMAND = "leech0"
     #fill your rclone config like this(Your config may have some extra value or less. so Don't worry)
     # Do not delete [DRIVE] #do not delete [DRIVE] but replace remaining part with yours data..if more data use common sense
-    RCLONE_CONFIG = """
-[]
-type = drive
-scope = drive
-token = {"ac—fill—yours—data—jNc3MpTRy2PuGD_Lvsodct---fill--yours---0-18T12:11:26.58411451Z"}
-team_drive = 0ABS@gautamk9PVA"""
+    
